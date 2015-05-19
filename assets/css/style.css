@@ -2801,6 +2801,9 @@ a.category--small,
   font-size: 25px;
   line-height: 30px; }
 
+#filter-form .form-control {
+  border-bottom: 1px solid #eeeeee; }
+
 @media only screen and (max-width: 479px) {
   .hide-xs {
     display: none; } }
